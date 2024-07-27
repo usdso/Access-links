@@ -13,12 +13,16 @@ Website Link: **https://www.usdso.site**
 
 Stay up to date with our latest news and announcements by following us on our social media channels.
 Twitter (X): Follow us on Twitter for real-time updates and announcements.
+
 Link: **https://x.com/solana_usdso**
+
 Community Groups: Coming Soon
 
 Join our community groups to discuss, share, and collaborate with other USDso users and enthusiasts.
 Telegram: Our Telegram group is a great place to ask questions and get support from the community.
+
 Link: https:**//t.me/solana_usdso**
+
 Additional Resources:Coming Soon
 
 Here you can find additional resources such as documentation, FAQs, and tutorials to help you understand and use USDso.
@@ -30,6 +34,7 @@ Tutorials: Step-by-step tutorials on various aspects of using USDso.
 Link: Coming Soon
 
 If you have any questions or need further assistance, feel free to contact us via our official channels.
+
 Email: **support@usdso.site**
 
 
