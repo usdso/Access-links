@@ -1,8 +1,8 @@
 **Access Links for Solana USD (USDso)**
-مقدمه:
+
 Welcome to the access links repository for Solana USD (USDso). Here you will find all the important links related to USDso, including our official website, social media channels, and community groups. Stay connected and informed about the latest updates and developments.
 
-بخش‌های اصلی:
+
 **Official Website**:
 
 Our official website provides detailed information about USDso, including its features, benefits, and how to get started.
